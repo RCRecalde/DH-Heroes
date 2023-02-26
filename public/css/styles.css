@@ -1,0 +1,29 @@
+html{
+    background-color: rgb(172, 201, 9);
+}
+
+body{
+    text-align: center;
+}
+
+.titulo {
+    color: rgb(194, 28, 28);
+    font-weight: bold;
+    font-size: 50px;
+    font-family:'Times New Roman', Times, serif;
+    text-decoration: underline;
+    line-height: 150px;
+}
+.subtitulo {
+    font-size: 30px;
+    line-height: 55px;
+}
+
+.subtitulo2{
+font-size: 15px;
+color: rgb(194, 28, 28);
+}
+
+.pic img{
+    float: left;
+}
